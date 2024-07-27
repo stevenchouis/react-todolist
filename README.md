@@ -13,7 +13,8 @@ This is the place where I opensource stuff and break things :rofl:
 <details>
   <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
   <br/>
-  
+</details>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
